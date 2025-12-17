@@ -1,0 +1,16 @@
+python-telegram-bot==20.7
+requests
+pytesseract
+opencv-python
+pillow
+PyPDF2
+reportlab
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+apscheduler
+openai
+sentence-transformers
+groq
+python-docx
